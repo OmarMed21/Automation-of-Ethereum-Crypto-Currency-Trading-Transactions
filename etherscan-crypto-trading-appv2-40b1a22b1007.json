@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "etherscan-crypto-trading-appv2",
+  "private_key_id": "40b1a22b10073c19893da7cd4cd0eac1421d964b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCtS3032RB+2Bu\n6i8nMziSlurXD17IPg6lrJcKSnFq1OUIh/Zfw3vCFUJFnm8YsNks0E6MLg9UuTse\njQjf2IC9RrtzE0tXVYDCL0DeBAgTSNY0VrwKJtTJeO+gjvbAsW0sIdvu9/9IFCdV\nOiugp8iTXVgP/uU5TYhY291OMuOHykSzJazFfMMwSk5/jba/MmZjolVUNrNrRhwh\nrV+brfSyoMTMqf2mZWAD+2QiQ9fEB8cE/YI2HkmZuq7RboUlEvcIar7VLk3frOWk\nhUj68chjHzfr4T1dKOWIQGtP/+eIFBJb5FmO8zeE+6/6LHM0FdpDfPTkwX2iXIwq\nS/so2ab3AgMBAAECggEAJzCegmYgYON+4nRCb2pw3ZiAxi6yzi0nd5NIh2q6b11Q\niCoNnfLTyxnKUAb2p4qY+9slpDN1JIFv89NBUQTbzL0a56ufg4GTPAKU1NsM4QzN\nCJXYnVZ5h9/Oo4uDAP/1UGe0Q+IowNJFpHLj6x86UOb93aJZcvI3GmOOpLm7cE4c\ntHJqvZAH/LB5vK4HU0A2lyuc19Sh7orrQRjunYtGkA69A2vkuyq+0I/4nxg0XMGh\n3WWKIL7UzURvClPUqcSyrl32XFTLzRT9TUFv1crRm2qcOrhQl77N1VVWDLqV3+Jh\nqLODlJ2i0AFvE9A4cE2vWDgnWqWunA9yhsvTYEeAOQKBgQD3L8nUKaHgQkBT8m8a\nmHjSOPkfNSIhPE/CgirhtjBJH5FLLpJiNNw+GJDK0Gqd1DidFW/Y9Q3EbPc0njet\nvhyAcWJIS/yeHLJYD0MlXq266ElV4dESXrB+m0Vh1xdsxpS9KsjB8oDq2T6pH4Rk\nis+ABz+G48TEYbZOMFst/orAlQKBgQDJpmLoHZO1rYBLxGpHRz2qxL/+w3giagVu\n84UPIWcn4+yeUDuB7AFNU9TFoAEtQ77PmEV+vzZBrL/SpKbSK4fuQNpMdJmcAeuV\nKp77M0KlyGHfr0QOgM0aZos5j9+3FWi2f26Ic5wOL8yl3yc1Sm34J0BKdCsGMAQu\nSmVbiMPqWwKBgQDQJzn6o6RhSOkKyBiveL4lqTx//ypientf/GVH9TfsG90qRmmW\nsZTV5bHoWGGvzspt3WN2e8XAJ1J0yNdyQ6mUr+ZnozVzoA6/APs2OOhrgLhgzexV\nX8+YjgB7R7m+K+uM8L5mNGRDX/XYTWYblJjv4yqn2J4WEYKHjUj7DmKhkQKBgETO\nK018WhxRuUchHAp6OoZ8X+60D9feSUBUg4BoK2SnFuPmCIgKWV9jTWSpdf1V8lOv\nZ3caE49RPJrJZ8qq49Td+B7CYm+jEBlz049vLDyZJRxIF3bDaDir6LGZcAJuoa4z\nySlyGTuV/8RRYnWCkgdsjTlabhvMYoDRDciv3/mlAoGBANwIXzUZipdUIZvBVFri\n143tMNdxRWX5FQT9P+5g2rAp6dpa/CSVsorlUeYKbYbBuks6ZdDacw485jLtI1pJ\nkwW8Z2WlpqQ7ylTOjTnpAegL2EstPxUkuq5O8QvbkZ2PtgTt5DEfMN3YbjyDY5N9\nZhFjKkTPflD0d08djHSLhq4Y\n-----END PRIVATE KEY-----\n",
+  "client_email": "ethdata-671@etherscan-crypto-trading-appv2.iam.gserviceaccount.com",
+  "client_id": "114845646076618684635",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ethdata-671%40etherscan-crypto-trading-appv2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
